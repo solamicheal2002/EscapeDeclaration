@@ -14,7 +14,7 @@ namespace EscapeCharacter
 
             Console.WriteLine("Jesus is coming soon\n\a");
 
-            Console.Write("")
+            Console.Write("Some Changes")
 
             Console.ReadLine();
         }
